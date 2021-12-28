@@ -1,2 +1,2 @@
 # lit_gpt
-gpt implementation pytorch lightning
+This repo implements gpt with pytorch lightning.
